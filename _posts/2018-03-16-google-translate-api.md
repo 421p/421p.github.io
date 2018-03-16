@@ -10,7 +10,9 @@ The actual API url is (example):
 
 [https://translate.googleapis.com/translate_a/single?client=gtx&sl=**auto**&tl=**en**&dt=t&q=**hola**]()
 
-This call will translate "hola" word from **auto**detected language t **en**glish
+This call will translate "hola" word from autodetected language (**auto**) to english (**en**)
+
+All language codes can be found [here](https://cloud.google.com/translate/docs/languages)
 
 Let's write a simple example in javascript:
 
