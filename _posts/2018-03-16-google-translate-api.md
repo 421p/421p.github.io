@@ -23,4 +23,4 @@ Or for those who prefer async/await syntax:
 
 {% gist ae70886b759cc52fdb0a1efca82136ab %}
 
-As you can see it's a simple GET request, this is easily implementable in your favourite language
+As you can see it's a simple GET request, thus is easily implementable in your favourite language
