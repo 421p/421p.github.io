@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-The official Google Translate API is available for businesses only but there is a way around which you can use without having to pay the enterprise license fee.
+The official Google Translate API is not awailable for free but there is a way around which you can use without having to pay the enterprise license fee.
 
 The text can be translated from one language to another using the secret translate.googleapis.com API that is internally used by the Google Translate extension for Chrome and requires no authentication.
 
@@ -15,3 +15,9 @@ This call will translate "hola" word from **auto**detected language t **en**glis
 Let's write a simple example in javascript:
 
 {% gist e7acd93721843bbd3af4e0cfdd29e0b0 %}
+
+Or for those who prefer async/await syntax:
+
+{% gist ae70886b759cc52fdb0a1efca82136ab %}
+
+As you can see it's a simple GET request and you can implement in any language you'd like.
