@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+title: Scraping YouTube Trends in Browser
+tags: web scraping parsing parserr youtube trends javascript DOM allorigins bypass cors
 ---
 
 Anyone sooner or later will face the need of web scraping. There might be no API at all, or it may be private and so on. Usually, developers using scripting languages like PHP and tools like Symfony DomCrawler for scraping web pages and parsing DOM. But let's say that we do not have an environment for running scripting languages, we do not have a server, or we just too lazy to run node.js and don't want to use anything but javascript. For this case, we can go serverless way and do all stuff on the client side.
