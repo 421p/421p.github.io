@@ -1,6 +1,7 @@
 ---
 published: true
 tags: google translate api free js javascript
+title: Google Translate API for Free
 ---
 The official Google Translate API is not awailable for free but there is a way around which you can use without having to pay the enterprise license fee.
 
