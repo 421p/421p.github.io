@@ -17,7 +17,7 @@ Let's create a function for getting a list of trends:
 
 {% gist 2f07e80cf1d366b6371448d8c07af68a %}
 
-We've created a div element and loaded the content of YouTube page into its innerHTML. After this, we can simply use a querySelector method and get a list of necessary nodes which we will transform into a list of trend objects(a list of simple object containing 2 properties: video URL and title.
+We've created a div element and loaded the content of YouTube page into its innerHTML. After this, we can simply use a querySelectorAll method and get a list of necessary nodes which we will transform into a list of trend objects(a list of simple object containing 2 properties: video URL and title.
 
 The result can be used for rendering something or doing any stuff you’d need. In the example below I will just create a list of links.
 
