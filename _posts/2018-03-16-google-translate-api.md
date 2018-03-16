@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-## Google Translate free API
-
 The official Google Translate API is available for businesses only but there is a way around which you can use without having to pay the enterprise license fee.
 
 The text can be translated from one language to another using the secret translate.googleapis.com API that is internally used by the Google Translate extension for Chrome and requires no authentication.
