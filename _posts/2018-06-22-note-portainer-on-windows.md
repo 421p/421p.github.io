@@ -23,10 +23,10 @@ docker run -d -p 9000:9000 --name portainer --restart always -v portainer_data:/
 
 ##### 3) Go to [http://localhost:9000](http://localhost:9000) and create admin account
 
-![chrome_2018-06-22_23-02-08.jpg]({{site.baseurl}}/_posts/chrome_2018-06-22_23-02-08.jpg)
+![chrome_2018-06-22_23-02-08.jpg](https://raw.githubusercontent.com/421p/421p.github.io/master/_posts/chrome_2018-06-22_23-02-08.jpg)
 
 ##### 4) Set up a remote endpoint with ip 10.0.75.1:2375
 
-![chrome_2018-06-22_23-04-13.jpg]({{site.baseurl}}/_posts/chrome_2018-06-22_23-04-13.jpg)
+![chrome_2018-06-22_23-04-13.jpg](https://raw.githubusercontent.com/421p/421p.github.io/master/_posts/chrome_2018-06-22_23-04-13.jpg)
 
 ##### 5) Done!
