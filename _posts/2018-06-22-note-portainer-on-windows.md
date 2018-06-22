@@ -1,9 +1,7 @@
 ---
 published: true
-title: [Note] Portainer and Docker on Windows
-tags: >-
-  portainer docker windows remote endpoint dockeronwindows
-  
+title: '[Note] Portainer and Docker on Windows'
+tags: portainer docker windows remote endpoint dockeronwindows
 ---
 
 A quick instruction on how to run Portainer (Web UI for Docker) in a Docker on Windows (Linux containers, hyper-v, not LCOW)
