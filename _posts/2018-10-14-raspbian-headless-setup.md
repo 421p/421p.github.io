@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+tags: raspbian headless setup wifi ssh
+title: Raspbian Headless Setup
 ---
 To set any Raspberry Pi in headless mode, you'll only need your Pi with pre-loaded Raspbian OS (latest is Stretch) and your Wi-Fi network.
 Make sure you know your Wi-Fi SSID and Password in order to perform headless setup.
