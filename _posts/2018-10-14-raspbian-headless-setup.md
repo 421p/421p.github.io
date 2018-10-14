@@ -13,3 +13,5 @@ Once you've burned/etched the Raspbian image onto the microSD card, connect the 
 **Step 2**: Create another file name wpa_supplicant.conf . This time you need to write a few lines of text for this file. For this file, you need to use the **FULL VERSION** of **wpa_supplicant.conf**. Meaning you must have the 3 lines of data namely **country, ctrl_interface and update_config**.
 
 {% gist 5f2c332b6ad8dae2fd1b9519bac0b40a %}
+
+Original forum post: [https://www.raspberrypi.org/forums/viewtopic.php?t=191252](https://www.raspberrypi.org/forums/viewtopic.php?t=191252)
